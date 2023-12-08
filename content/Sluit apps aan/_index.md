@@ -11,4 +11,3 @@ Klik op het {{% icon chevron-right %}} pijltje rechtsboven in het venster om naa
 ---
 
 {{% icon right-to-bracket %}}
-[Over bridges]({{% relref "Over bridges.md" %}})
